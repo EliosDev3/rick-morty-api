@@ -1,5 +1,5 @@
 <h1 align="center"> rick-morty-api </h1>
-<p> API que consume los personajes de la API REST de Rick and Morty y muestra la informacion como nombre, especie e imagen en un grid y permite filtrar por nombre </p>
+<p> API que consume los personajes de la API REST de Rick and Morty y muestra la información como nombre, especie e imagen en un grid y permite filtrar por nombre. </p>
 
 ## Como correr el desarrollo
 - Tener previamente instalado Java version 21 en adelante con las variables de ambiente PATH y JAVA_HOME configuradas.
