@@ -1,4 +1,4 @@
-# <h1 align="center"> rick-morty-api </h1>
+<h1 align="center"> rick-morty-api </h1>
 <p align="center"> API que consume y muestra los personajes de la API REST rickandmortyapi.com </p>
 
 ## Como correr el desarrollo
