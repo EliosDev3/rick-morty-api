@@ -13,10 +13,10 @@ Como correr el desarrollo
   - El proyecto se mostrará en el área "Package Explorer" que está en la parte superior izquierda.
   - Para correr nuestro proyecto, en la parte inferior izquierda se muestra el área "Boot Dashboard", en la opcion "local" damos click en el icono "v" para desplegar los proyectos con SpringBoot y ahí se motrará nuestro proyecto "rick-morty-api-main", click derecho sobre nuestro proyecto y seleccionamos la opción (Re)start, mostrándose en la parte inferior en la pestaña "Console" el log del proceso de despliege de la aplicación.
   - Finalmente, para visualizar la aplicación, en el explorador de internet escribimos: http://localhost:8080/personajes/listarPersonajes
-    Nota: Verificar que el puerto 8080 no este ocupado por otro proceso.
+  - Nota: Verificar que el puerto 8080 no este ocupado por otro proceso.
 
 Decisiones técnicas
-- Lenguaje y framework: Java 21 - Spring Boot.
+- Lenguaje y framework: Java 21 - Spring Boot 3.5.13.
 - Organización del código: Se implementa el patron Controller-Service y Model para el transporte de datos.
 - Motor de plantillas: Thymeleaf.
 - Configuración externa: Se utiliza archivos .yml para externalizar la configuración.
@@ -28,6 +28,7 @@ Mejoras futuras
 - Mejorar la paginación del template.
 - Mejorar la carga de las imagenes.
 - Manejo de errores.
+
 
 
 <img width="1606" height="1076" alt="screenshot1" src="https://github.com/user-attachments/assets/1317e330-814e-4eaa-8add-e1cd679601bc" />
