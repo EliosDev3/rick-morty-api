@@ -1,4 +1,4 @@
-# rick-morty-api
+# <h1 align="center"> rick-morty-api </h1>
 <p align="center"> API que consume y muestra los personajes de la API REST rickandmortyapi.com </p>
 
 ## Como correr el desarrollo
@@ -36,8 +36,8 @@
 <br/><br/>
 <img width="1606" height="1076" alt="screenshot1" src="https://github.com/user-attachments/assets/1317e330-814e-4eaa-8add-e1cd679601bc" />
 <br/><br/>
-## Autor
 
+## Autor
 **Pavel M. A.**
 
 
